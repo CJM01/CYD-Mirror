@@ -26,9 +26,9 @@ This project adapts [tuckershannon's ESP32-Desktop-Monitor](https://github.com/t
 
 | Part | Details |
 |---|---|
-| **ESP32 Board** | Hosyond 4" ESP32-3248S040 CYD |
-| **Display** | ST7796 480×320 (portrait: 320×480) |
-| **Touch** | XPT2046 resistive touchscreen |
+| **ESP32 Board** | [Hosyond 4" ESP32-3248S040 CYD](https://www.lcdwiki.com/4.0inch_ESP32-32E_Display) |
+| **Display** | ST7796 480×320 (portrait: 320×480) Included with board |
+| **Touch** | XPT2046 resistive touchscreen Included with board |
 | **PC** | Windows, any resolution |
 
 ---
