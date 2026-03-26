@@ -1,4 +1,6 @@
 # CYD-Mirror
+
+Made with Claude AI
 Mirror your Windows desktop to a 4" Cheap Yellow Display (ESP32) over WiFi. Optimized for ST7796 480x320 resolution with high-speed pixel diffing and custom touchscreen support.
 
 # ESP32 CYD Desktop Monitor
