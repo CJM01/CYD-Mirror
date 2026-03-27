@@ -5,6 +5,9 @@
 - Optimized for ST7796 480x320 resolution with high-speed pixel diffing.
 
 # ESP32 CYD Desktop Monitor
+
+![Screenshot](docs/Screenshot.jpg)
+
 ### Stream a portion of your PC screen to a Hosyond 4" ESP32-3248S040 (CYD) over WiFi
 
 This project adapts [tuckershannon's ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) for the **Hosyond 4" ESP32-3248S040 "Cheap Yellow Display" (CYD)** with an ST7796 480×320 touchscreen. The original project targeted a 135×240 ST7789 display — getting it working on the CYD required solving several hardware-specific challenges documented here.
