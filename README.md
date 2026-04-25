@@ -16,17 +16,18 @@ This project adapts [tuckershannon's ESP32-Desktop-Monitor](https://github.com/t
 
 ## 🚀 Quick Start
 
-### 1. Hardware & Environment
-* **Device:** Connect your 4" CYD to your PC via USB.
-* **Python:** Ensure you have Python 3.x installed.
-* **Arduino:** Install the [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library.
+### 1. PC Setup
+* **[Python](https://www.python.org/downloads/):** Ensure you have Python 3.x installed.
+* **[Arduino](https://www.arduino.cc/en/software/):** Install the [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library.
+* Run the [Python Script](https://github.com/CJM01/CYD-Mirror/blob/main/PC/Transmitter_cyd4.py)
 
-### 2. Configure & Flash (Arduino)
-1. Open `receiver_CYD4.ino` in the Arduino IDE.
-2. Update your WiFi credentials:
+### 2. CYD Configure & Flash (Arduino)
+* Open `receiver_CYD4.ino` in the Arduino IDE.
+* Update your WiFi credentials:
    ```cpp
    const char* ssid     = "YOUR_SSID";
    const char* password = "YOUR_PASSWORD";
+* Flash to the CYD   
 
 ## Hardware
 
